@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+/*
+  Tokens de design do GourmetOn.
+*/
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+
+  --color-creme: #fff8f1;
+  --color-areia: #f6ece2;
+  --color-tinta: #2f2a26;
+  --color-cinza: #6f6660;
+
+  --color-coral: #ee7b52;
+  --color-coral-escuro: #d9653d;
+  --color-coral-claro: #fde8dd;
+
+  --color-salvia: #7fae8a;
+  --color-salvia-claro: #e5f1e7;
+
+  --color-mel: #f2b84b;
+  --color-mel-claro: #fdf1d8;
+
+  --shadow-suave: 0 10px 30px -12px rgb(47 42 38 / 0.15);
+  --shadow-flutuante: 0 20px 45px -18px rgb(238 123 82 / 0.45);
+}
+
+body {
+  @apply bg-creme font-sans text-tinta antialiased;
+}
+
+/* Compensa a altura do menu fixo quando a página rola até uma seção */
+section[id] {
+  scroll-margin-top: 5.5rem;
+}

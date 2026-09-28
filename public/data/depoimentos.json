@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Mariana Costa",
+    "cidade": "São Paulo, SP",
+    "nota": 5,
+    "texto": "Uso quase todo dia no almoço do trabalho. A comida chega quentinha e o filtro de vegetariano me salva muito tempo."
+  },
+  {
+    "nome": "Rafael Lima",
+    "cidade": "Campinas, SP",
+    "nota": 5,
+    "texto": "O acompanhamento em tempo real é muito preciso. Sei exatamente quando descer para buscar o pedido."
+  },
+  {
+    "nome": "Beatriz Nogueira",
+    "cidade": "Santo André, SP",
+    "nota": 4,
+    "texto": "Achei restaurantes do meu bairro que eu nem conhecia. O cashback já pagou uma sobremesa inteira."
+  },
+  {
+    "nome": "Lucas Andrade",
+    "cidade": "Osasco, SP",
+    "nota": 5,
+    "texto": "Interface limpa e pagamento pelo Pix em segundos. Troquei de app e não volto mais."
+  },
+  {
+    "nome": "Camila Rocha",
+    "cidade": "Guarulhos, SP",
+    "nota": 5,
+    "texto": "Tenho doença celíaca e o filtro sem glúten funciona de verdade. Me sinto segura pedindo."
+  },
+  {
+    "nome": "Thiago Martins",
+    "cidade": "São Bernardo, SP",
+    "nota": 4,
+    "texto": "Entrega rápida mesmo em dia de chuva. O suporte respondeu em poucos minutos quando precisei."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "icone": "entrega",
+    "titulo": "Entrega rápida",
+    "descricao": "Rotas inteligentes e entregadores parceiros perto de você. Em média, seu pedido chega em até 30 minutos.",
+    "cor": "coral"
+  },
+  {
+    "icone": "restaurantes",
+    "titulo": "Variedade de restaurantes",
+    "descricao": "Do japonês ao nordestino, da hamburgueria à confeitaria. Mais de 500 restaurantes em um só lugar.",
+    "cor": "salvia"
+  },
+  {
+    "icone": "pagamento",
+    "titulo": "Pagamento fácil",
+    "descricao": "Pix, cartão, vale-refeição ou dinheiro. Salve seus métodos favoritos e finalize o pedido em um toque.",
+    "cor": "mel"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "icone": "busca",
+    "titulo": "Busca por tipo de comida",
+    "descricao": "Encontre exatamente o que está com vontade digitando o nome do prato ou do ingrediente."
+  },
+  {
+    "icone": "filtros",
+    "titulo": "Filtros inteligentes",
+    "descricao": "Filtre por culinária, tipo de refeição e restrições alimentares como vegano e sem glúten."
+  },
+  {
+    "icone": "rastreio",
+    "titulo": "Acompanhamento em tempo real",
+    "descricao": "Veja no mapa onde o seu pedido está, do preparo até a sua porta."
+  },
+  {
+    "icone": "favoritos",
+    "titulo": "Favoritos e pedidos rápidos",
+    "descricao": "Salve pratos e restaurantes preferidos e repita um pedido anterior com um clique."
+  },
+  {
+    "icone": "cupons",
+    "titulo": "Cupons e cashback",
+    "descricao": "Promoções semanais e parte do valor de volta para usar no próximo pedido."
+  },
+  {
+    "icone": "avaliacoes",
+    "titulo": "Avaliações reais",
+    "descricao": "Notas e comentários de quem já pediu para você escolher com mais segurança."
+  }
+]
